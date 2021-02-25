@@ -1,2 +1,0 @@
-# globalvpn
-Globalvpn
